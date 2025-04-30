@@ -58,6 +58,5 @@ main(){
 	e.output();
 	cout<<"\n\nEmploy 5/5\n";
 	e.input();
-	e.output();
-	
+	e.output();	
 }
